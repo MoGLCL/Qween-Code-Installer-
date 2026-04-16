@@ -43,12 +43,9 @@
 ```bash
 install-qwen.bat
 ```
-3. ```bash curl -L -o "%TEMP%\install-qwen.bat" https://raw.githubusercontent.com/MoGLCL/Qween-Code-Installer-/refs/heads/main/install-qwen.bat && start "" "%TEMP%\install-qwen.bat"
-   ```
+3. ```bash curl -L -o "%TEMP%\install-qwen.bat" https://raw.githubusercontent.com/MoGLCL/Qween-Code-Installer-/refs/heads/main/install-qwen.bat && start "" "%TEMP%\install-qwen.bat```
 
-```bash
-install-qwen.bat
-```
+
 
 ---
 
@@ -77,7 +74,7 @@ D:\Apps\qwen-global
 
 ---
 
-## 🇸🇦 العربية
+## EG العربية
 
 ### ✨ المميزات
 
