@@ -139,12 +139,13 @@ D:\Apps\qwen-global
 
 ## 👨‍💻 Author
 
-**Made by MoGlitch**
+![MoGlitch](https://img.shields.io/badge/Made%20by-MoGlitch-black?style=for-the-badge)
 
-* 💬 Discord: https://discord.gg/pgkwfRZGZH
-* 💼 LinkedIn: https://www.linkedin.com/in/mohamed-wael-elghanm/
-* 🐙 GitHub: https://github.com/MoGLCL
-* 📘 Facebook: https://www.facebook.com/marcoelghnam
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.gg/pgkwfRZGZH)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Wael-blue?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mohamed-wael-elghanm/)
+[![GitHub](https://img.shields.io/badge/GitHub-MoGLCL-black?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/MoGLCL)
+[![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge\&logo=facebook\&logoColor=white)](https://www.facebook.com/marcoelghnam)
+
 
 ---
 
